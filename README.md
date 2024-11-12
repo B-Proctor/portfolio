@@ -49,8 +49,8 @@ Welcome to my GitHub Portfolio! I'm Braydyn Proctor, a passionate Computer Scien
 
 ## 🔗 Connect with Me
 
-- **LinkedIn** | [Braydyn Proctor](https://www.linkedin.com/in/braydyn-proctor/)
-- **YouTube** | [RezDev - Game Development Tutorials](https://www.youtube.com/channel/RezDev)
+- **LinkedIn** | [Braydyn Proctor](https://linkedin.com/in/braydyn-proctor-a1446223b/)
+- **YouTube** | [RezDev - Game Development Tutorials](https://www.youtube.com/@rezdevs)
 - **Email** | [Email](mailto:braydynproctor1@gmail.com)
 
 Thank you for visiting my GitHub portfolio! Feel free to explore my repositories, and don't hesitate to reach out for collaborations, feedback, or inquiries.
