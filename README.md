@@ -1,4 +1,5 @@
-# Braydyn Proctor's GitHub Portfolio
+# Braydyn Proctor 
+
 
 Welcome to my GitHub Portfolio! I'm Braydyn Proctor, a passionate Computer Science student, aspiring software engineer, and game developer. I enjoy building projects that merge creativity with technical skills, from game development to system-level programming. This portfolio showcases a variety of my personal and academic projects that span across languages, frameworks, and development areas.
 
